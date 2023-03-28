@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @falc00 
-- 👀 I’m interested in Data Science, AI and Web Design
+- 👀 I’m interested in Data Science, AI and Web development
 - 🌱 I’m currently finishing my MSc in Computer Science
+- 💻 Previously worked as a Software Engineer summer intern at Unbabel
 
 <!---
 falc00/falc00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
