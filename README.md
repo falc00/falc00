@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @falc00 
-- 👀 I’m interested in Data Science, AI and Web development
+- 👋 Hi, I’m Gonçalo
+- 👀 I’m interested in AI and Web development 
 - 🌱 I’m currently finishing my MSc in Computer Science
 - 💻 Previously worked as a Software Engineer summer intern at Unbabel
 
